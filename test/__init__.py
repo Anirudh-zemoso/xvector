@@ -1,7 +1,7 @@
 import xvector as xvector
 from xvector import ApiConfig
 
-auth_token = "54e299fd09634522bd0aa91ecc96c860"
+# auth_token = "54e299fd09634522bd0aa91ecc96c860"
 api_key="60f4321055bb45a7b55b0a97385fc576"
 base_url = "http://localhost:5000"
 version = "api"

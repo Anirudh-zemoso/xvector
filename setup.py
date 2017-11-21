@@ -36,7 +36,7 @@ setup(
     description='Package for Xvector API access',
     keywords=['xvector', 'API', 'data'],
     long_description=long_description,
-    version='0.0.1',
+    version='0.0.1.1',
     author='Xvector',
     author_email='anirudh.g@zemosolabs.com',
     maintainer='Xvector Development Team',
