@@ -14,7 +14,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'xvector'))
 
 
 install_requires = [
-    'requests == 2.18.4'
+    'requests == 2.18.4',
+    'pandas'
 ]
 
 installs_for_two = [
